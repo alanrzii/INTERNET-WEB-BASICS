@@ -24,6 +24,12 @@ This repository contains basic web development exercises and projects. The files
 - **Alan Reji HW L2.html**  
   Homework file implementing a color palette mixer using sliders for red, green, and blue.
 
+- **rgb5.html**  
+  A color mixer using RGB sliders to adjust red, green, and blue values dynamically.
+
+- **calculator4.html**  
+  A basic calculator created using HTML (and potentially JavaScript).
+
 - **25-2.html**  
   Recreation of another webpage, structured and modified to match the reference site.
 
